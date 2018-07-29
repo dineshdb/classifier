@@ -1,0 +1,6 @@
+model_checkpoint_path: "E:\\Grive\\Projects\\chatbot\\classifiers\\trainer\\cnn-text-classification\\runs\\1532810429\\checkpoints\\model-1500"
+all_model_checkpoint_paths: "E:\\Grive\\Projects\\chatbot\\classifiers\\trainer\\cnn-text-classification\\runs\\1532810429\\checkpoints\\model-1100"
+all_model_checkpoint_paths: "E:\\Grive\\Projects\\chatbot\\classifiers\\trainer\\cnn-text-classification\\runs\\1532810429\\checkpoints\\model-1200"
+all_model_checkpoint_paths: "E:\\Grive\\Projects\\chatbot\\classifiers\\trainer\\cnn-text-classification\\runs\\1532810429\\checkpoints\\model-1300"
+all_model_checkpoint_paths: "E:\\Grive\\Projects\\chatbot\\classifiers\\trainer\\cnn-text-classification\\runs\\1532810429\\checkpoints\\model-1400"
+all_model_checkpoint_paths: "E:\\Grive\\Projects\\chatbot\\classifiers\\trainer\\cnn-text-classification\\runs\\1532810429\\checkpoints\\model-1500"

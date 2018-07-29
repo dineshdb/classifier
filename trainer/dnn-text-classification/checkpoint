@@ -1,0 +1,2 @@
+model_checkpoint_path: "E:\\Grive\\Projects\\chatbot\\classifiers\\trainer\\dnn-text-classification\\model.tflearn"
+all_model_checkpoint_paths: "E:\\Grive\\Projects\\chatbot\\classifiers\\trainer\\dnn-text-classification\\model.tflearn"
